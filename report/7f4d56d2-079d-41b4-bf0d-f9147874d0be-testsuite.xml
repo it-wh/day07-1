@@ -1,0 +1,73 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1581682229129" stop="1581682230469">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1581682229129" status="passed" stop="1581682229616">
+      <name>test01_login.TestLogin.test_login_0_13800000002</name>
+      <attachments>
+        <attachment source="4e280e30-fd56-42a5-a8aa-49dc8c143c66-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="23484-MainThread"/>
+        <label name="host" value="LAPTOP-DFSP8P0G"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581682229712" status="passed" stop="1581682229957">
+      <name>test02_employee.TestEmployee.test01_post</name>
+      <attachments>
+        <attachment source="3caf8797-db90-4f34-88c9-aa236b9e6bc1-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="a95393fe-fc53-4a4e-981a-4db929495dfa-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="23484-MainThread"/>
+        <label name="host" value="LAPTOP-DFSP8P0G"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581682230047" status="passed" stop="1581682230076">
+      <name>test02_employee.TestEmployee.test02_put</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="23484-MainThread"/>
+        <label name="host" value="LAPTOP-DFSP8P0G"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581682230147" status="passed" stop="1581682230173">
+      <name>test02_employee.TestEmployee.test03_get</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="23484-MainThread"/>
+        <label name="host" value="LAPTOP-DFSP8P0G"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581682230259" status="passed" stop="1581682230469">
+      <name>test02_employee.TestEmployee.test04_delete</name>
+      <attachments>
+        <attachment source="4b8b1c9b-d338-4b52-8d3a-bd9b1daae4d5-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="23484-MainThread"/>
+        <label name="host" value="LAPTOP-DFSP8P0G"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

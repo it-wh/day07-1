@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_login.py:16 正在初始化登录url：http://182.92.81.159/api/sys/login
+[32mINFO    [0m root:api_login.py:23 正在初始化登录数据：{'mobile': '13800000002', 'password': '123456'} 请求信息头：{'Content-Type': 'application/json'}
+[32mINFO    [0m root:test01_login.py:31 正在提取token：49d59625-8647-482e-8253-d54a545518ae
